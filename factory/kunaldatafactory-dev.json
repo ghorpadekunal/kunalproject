@@ -1,0 +1,9 @@
+{
+	"name": "kunaldatafactory-dev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64417562-df94-43a9-bc2a-2ae316bbf293",
+		"tenantId": "31e3c333-4141-436b-9498-e28f3c6c6c5c"
+	}
+}
